@@ -39,108 +39,34 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Um pouco mais sobre mim...  
 
 ```typescript
-export default class Profile extends Ricardo {
-  return ({
-    name: "Ricardo 'Ricky' Marinho",
-
-    code: [
-      "TypeScript",
-      "JavaScript",
-      "Java",
-      "SQL"
-    ],
-
-    technologies: {
-      frontEnd: {
-        frameworks: [
-          "Next.js",
-          "React"
-        ],
-
-        styling: [
-          "TailwindCSS",
-          "CSS3",
-          "Shadcn/UI"
-        ]
-      },
-
-      backEnd: {
-        runtime: [
-          "Node.js"
-        ],
-
-        frameworks: [
-          "Next.js",
-          "Elysia",
-          "Express"
-        ],
-
-        authentication: [
-          "Lucia Auth",
-          "Better Auth",
-          "NextAuth.js"
-        ],
-
-        orm: [
-          "Prisma ORM",
-          "Kysely"
-        ]
-      },
-
-      databases: [
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL",
-        "SQLite",
-        "Redis"
-      ],
-
-      gameDevelopment: [
-        "Spigot",
-        "Paper",
-        "Bukkit",
-        "BungeeCord"
-      ],
-
-      misc: [
-        "Discord.js",
-        "REST APIs",
-        "Automation",
-        "Linux Servers",
-        "Nginx",
-        "Git"
-      ]
-    },
-
-    architecture: [
-      "Linux",
-      "Arch Linux",
-      "Windows",
-      "Server Infrastructure"
-    ],
-
-    currentProjects: [
-      "Minecraft Minigame Network",
-      "Universal Spigot/Bungee API",
-      "Authentication Services",
-      "Pet Shop E-Commerce"
-    ],
-
-    currentFocus: [
-      "Software Architecture",
-      "High Performance Backends",
-      "Rust",
-      "Scalable Systems"
-    ],
-
-    goals: [
-      "Build products used by thousands of people",
-      "Master backend engineering",
-      "Create scalable platforms",
-      "Become a successful software engineer"
-    ]
-  })
-}
+const Ricky = {
+  role: "Full Stack Developer",
+  languages: [
+    "TypeScript",
+    "JavaScript",
+    "Java"
+  ],
+  specialties: [
+    "Backend Development",
+    "System Architecture",
+    "Authentication Systems",
+    "Minecraft Network Development",
+    "API Design"
+  ],
+  stack: {
+    frontend: ["Next.js", "React", "TailwindCSS", "Shadcn/UI"],
+    backend: ["Node.js", "Elysia", "Prisma", "Kysely"],
+    databases: ["PostgreSQL", "MongoDB", "Redis"],
+    auth: ["Lucia Auth", "Better Auth", "NextAuth"],
+    infra: ["Linux", "Nginx", "Server Hosting"]
+  },
+  currentlyBuilding: [
+    "Minecraft Network",
+    "Authentication Platform",
+    "Scalable Web Applications"
+  ],
+  motto: "Code. Learn. Build. Repeat."
+};
 ```
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/3349/3349548.png" width="20"> Tempo de programação...  
