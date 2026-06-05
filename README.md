@@ -57,8 +57,7 @@ const Ricky = {
     frontend: ["Next.js", "React", "TailwindCSS", "Shadcn/UI"],
     backend: ["Node.js", "Elysia", "Prisma", "Kysely"],
     databases: ["PostgreSQL", "MongoDB", "Redis"],
-    auth: ["Lucia Auth", "Better Auth", "NextAuth"],
-    infra: ["Linux", "Nginx", "Server Hosting"]
+    infra: ["Linux", "Docker", "DevOps"]
   },
   currentlyBuilding: [
     "Minecraft Network",
