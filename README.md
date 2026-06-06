@@ -72,11 +72,11 @@ const Ricky = {
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     35 mins               ███████▓░░░░░░░░░░░░░░░░░   30.02 %
-Git Config   30 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
-TypeScript   26 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
-JSON         6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Python       5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+TypeScript   3 hrs 30 mins         █████████████░░░░░░░░░░░░   52.26 %
+Python       1 hr 9 mins           ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
+Markdown     39 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+Git Config   30 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+TSConfig     15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
