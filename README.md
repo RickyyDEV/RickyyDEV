@@ -72,7 +72,11 @@ const Ricky = {
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   14 mins               █████████████████████████   100.00 %
+TypeScript   25 mins               ██████████████████▓░░░░░░   74.55 %
+JSON         7 mins                █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
+CSS          1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Markdown     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
