@@ -14,15 +14,7 @@
       <a href="https://discordapp.com/users/409801761470152704" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
       <br>
 </div>
-
-<div align="center">
-                  <h1>Informações: <h1/>      
-<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RickyyDEV&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=RickyyDEV&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RickyyDEV&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<hr/>    
+<hr/> 
 <div align="center">
       <h1>Tecnologias que utilizo: <h1/> 
       <img src="https://skillicons.dev/icons?i=ts,js,java&theme=dark" />
