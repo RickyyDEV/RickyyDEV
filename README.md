@@ -47,7 +47,7 @@ const Ricky = {
   ],
   stack: {
     frontend: ["Next.js", "React", "TailwindCSS", "Shadcn/UI"],
-    backend: ["Node.js", "Elysia", "Prisma", "Kysely"],
+    backend: ["Node.js", "Elysia", "Drizzle"],
     databases: ["PostgreSQL", "MongoDB", "Redis"],
     infra: ["Linux", "Docker", "DevOps"]
   },
@@ -56,18 +56,10 @@ const Ricky = {
     "Authentication Platform",
     "Scalable Web Applications"
   ],
+  OS: ["Linux", "MacOS", "Windows"],
   motto: "Code. Learn. Build. Repeat."
 };
 ```
-
-### <img src="https://cdn-icons-png.flaticon.com/512/3349/3349548.png" width="20"> Tempo de programação...  
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RickyyDEV/RickyyDEV/output/github-contribution-grid-snake-dark.svg">
